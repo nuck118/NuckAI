@@ -1,0 +1,5 @@
+cat.jpg,A fluffy gray cat is sleeping in a sunny room.
+dog.jpg,A small dog is sitting on a chair, looking at the camera.
+car.jpg,A red sports car is parked on the street.
+mountain.jpg,A beautiful mountain range with snow on the peaks.
+man.jpg,A man is walking down a street in a city.
